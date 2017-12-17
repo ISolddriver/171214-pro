@@ -75,6 +75,83 @@
       "id": "00016",
       "imgUrl": "http://img1.qunarzz.com/piao/fusion/1611/be/a70e61e1f57ee302.png",
       "keyword": "全部"
-    }]
+    }],
+    "activity":[{
+      "id": "0001",
+      "style": "background:url(http://img1.qunarzz.com/piao/fusion/1710/a2/e395615b16fb1302.png) center center no-repeat;background-size:auto 100%;border-right:1px solid #999"
+    },
+    {
+      "id": "0002",
+      "style": "background:url(http://img1.qunarzz.com/piao/fusion/1711/8a/4c62d1a89fc2d602.png) center center no-repeat;background-size:auto 100%;"
+    }],
+    "hot":[
+      {
+        "id": "00001",
+        "imgSrc": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_140x140_80f63803.jpg",
+        "title": "故宫",
+        "des": "东方宫殿建筑代表，世界宫殿建筑典范",
+        "price": "20"
+      },
+      {
+        "id": "00002",
+        "imgSrc": "http://img1.qunarzz.com/sight/p0/1511/d2/d2aec2dfc5aa771290.water.jpg_140x140_abb362a7.jpg",
+        "title": "南山滑雪场",
+        "des": "北京专业级滑雪圣地",
+        "price": "97"
+      },
+      {
+        "id": "00003",
+        "imgSrc": "http://img1.qunarzz.com/sight/p0/1501/f4/f467729126949c3a.water.jpg_140x140_ef235b1c.jpg",
+        "title": "天安门广场",
+        "des": "我爱北京天安门，天安门上太阳升",
+        "price": "20"
+      },
+      {
+        "id": "00004",
+        "imgSrc": "http://img1.qunarzz.com/sight/p0/1604/1e/1e75f8e1af9fe81f90.img.jpg_140x140_b555f882.jpg",
+        "title": "世界花卉大观园",
+        "des": "揽天下奇花异草，聚世界经典园林",
+        "price": "33.1"
+      },
+      {
+        "id": "00005",
+        "imgSrc": "http://img1.qunarzz.com/sight/p0/201306/13/bdf22f69fab0ee4ec8d65eac.jpg_140x140_355f4fb6.jpg",
+        "title": "八达岭长城缆车",
+        "des": "巍峨雄伟尽收眼底",
+        "price": "156"
+      }
+    ],
+    "trip":[
+      {
+        "id": "00001",
+        "url": "http://img1.qunarzz.com/sight/source/1510/6e/1ea71e2f04e.jpg_r_640x214_aa6f091d.jpg",
+        "title": "温泉-北京",
+        "des": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "00002",
+        "url": "http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+        "title": "温泉-北京",
+        "des": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "00003",
+        "url": "http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+        "title": "温泉-北京",
+        "des": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "00004",
+        "url": "http://img1.qunarzz.com/sight/source/1505/ce/bc89bc2f0e33ea.jpg_r_640x214_3e408453.jpg",
+        "title": "温泉-北京",
+        "des": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "00005",
+        "url": "http://img1.qunarzz.com/sight/source/1511/ad/6834f95575feed.jpg_r_640x214_2b7039e2.jpg",
+        "title": "温泉-北京",
+        "des": "细数北京温泉，温暖你的冬天"
+      }
+    ]
   }
 }
